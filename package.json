@@ -1,0 +1,16 @@
+{
+  "name": "hello-npm",
+  "version": "0.0.0",
+  "description": "A minimal Node project for The npm Book",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "",
+  "keywords": [
+    "npm",
+    "example"
+  ],
+  "author": "Trevor Burnham",
+  "license": "MIT"
+}
